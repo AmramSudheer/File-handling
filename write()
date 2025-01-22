@@ -1,0 +1,9 @@
+f=open('sudheer.txt','w')
+f.write("sudheer ")
+f.write("sudheer ")
+f.write("sudheer ")
+f.write("sudheer ")
+f.write("sudheer ")
+
+f.closed
+print("wirite operation is completed")
