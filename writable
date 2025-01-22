@@ -1,0 +1,6 @@
+f=open('sudheer.txt','w')
+l = ["SUNNY","SDSDSD","sdsdsd"]
+f.writelines(l)
+
+f.closed
+print("wirite operation is completed")
