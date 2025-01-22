@@ -1,0 +1,7 @@
+f=open('sudheer.txt','r')
+print('filename:',f.name)
+print('file is readeable',f.readable())
+print("file is writable",f.writable())
+print("files is closed :",f.closed)
+f.closed
+print("file is closed ",f.closed)
